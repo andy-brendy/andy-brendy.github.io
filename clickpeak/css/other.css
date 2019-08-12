@@ -1,0 +1,17 @@
+  #logoImg-bl {
+    display: block !important;
+  }
+  h1 {
+  	font-family: "Lato-Black";
+  	font-size: 40px;
+  }
+  p {
+  	padding: 30px 50px;
+  }
+  main {
+  	margin-top: 150px !important;
+  }
+  b {
+  	font-family: 'Lato-Bold';
+  	font-size: 22px;
+  }
